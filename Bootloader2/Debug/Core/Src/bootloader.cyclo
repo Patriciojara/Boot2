@@ -1,0 +1,16 @@
+../Core/Src/bootloader.c:13:17:get_u32_le	1
+../Core/Src/bootloader.c:21:13:put_u32_le	1
+../Core/Src/bootloader.c:29:17:dlc_to_len	17
+../Core/Src/bootloader.c:53:17:len_to_dlc	16
+../Core/Src/bootloader.c:73:26:bl_can_send	6
+../Core/Src/bootloader.c:108:13:bl_ack	1
+../Core/Src/bootloader.c:113:13:bl_nack	1
+../Core/Src/bootloader.c:118:6:BL_IsValidApplication	12
+../Core/Src/bootloader.c:133:6:BL_JumpToApplication	2
+../Core/Src/bootloader.c:162:10:BL_Crc32	4
+../Core/Src/bootloader.c:179:10:BL_Crc32Flash	1
+../Core/Src/bootloader.c:187:16:bl_erase_app	2
+../Core/Src/bootloader.c:212:16:bl_write_block	10
+../Core/Src/bootloader.c:246:13:handle_info	1
+../Core/Src/bootloader.c:257:13:handle_frame	24
+../Core/Src/bootloader.c:380:6:BL_Loop	7

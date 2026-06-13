@@ -1,0 +1,8 @@
+../Core/Src/main.c:12:5:main	4
+../Core/Src/main.c:43:13:FDCAN1_ConfigFiltersAndStart	4
+../Core/Src/main.c:74:13:MX_FDCAN1_Init	2
+../Core/Src/main.c:115:13:MX_GPIO_Init	1
+../Core/Src/main.c:120:6:HAL_FDCAN_MspInit	3
+../Core/Src/main.c:148:6:HAL_FDCAN_MspDeInit	2
+../Core/Src/main.c:157:13:SystemClock_Config	4
+../Core/Src/main.c:202:6:Error_Handler	1
